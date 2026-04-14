@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/shairyl12/nodejs-render-aiven-lab/issues"
   },
-  "homepage": "https://github.com/shairyl12/nodejs-render-aiven-lab#readme"
+  "homepage": "https://github.com/shairyl12/nodejs-render-aiven-lab#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.0"
+  }
 }
